@@ -1,0 +1,14 @@
+﻿生成启动时间为 2020/7/30 17:24:04。
+     1>项目“F:\TEST\c-code\test-7-30\test-7-30\test-7-30.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>f:\test\c-code\test-7-30\test-7-30\test.cpp(48): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>f:\test\c-code\test-7-30\test-7-30\test.cpp(49): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>f:\test\c-code\test-7-30\test-7-30\test.cpp(56): error C2065: “_name”: 未声明的标识符
+     1>f:\test\c-code\test-7-30\test-7-30\test.cpp(56): error C2065: “_gender”: 未声明的标识符
+     1>已完成生成项目“F:\TEST\c-code\test-7-30\test-7-30\test-7-30.vcxproj”(Rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.32
